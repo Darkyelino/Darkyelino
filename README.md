@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java, Python, HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me pablo_caua2011@hotmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I also make music and know how to draw pixel arts
 
 <!---
