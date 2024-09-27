@@ -9,7 +9,7 @@
 
 ### Tecnologias e Ferramentas
 - **Linguagens**: Java, Python, HTML, CSS, JavaScript
-**Ferramentas:** Git, VS Code, Spring Boot, Angular
+- **Ferramentas:** Git, VS Code, Spring Boot, Angular
 - **Bancos de Dados:** MySQL, PostgreSQL, SQLite
 - **Outras habilidades:** Design de interfaces, lógica de programação e automação de processos.
 
@@ -17,13 +17,13 @@
 Aqui estão alguns dos projetos nos quais trabalhei ou estou trabalhando recentemente:
 
 1. **SIGFAPAC:** Sistema de gerenciamento de editais com cadastro de pesquisadores e propostas com integração com áreas de conhecimento.
-2. **Banco em Tkinter:** Sistema de gerenciamento de contas, bancos e usuários com transações internas e persistência de dados.
+2. **Sistema de Gerenciamento de Bancos em Tkinter:** Sistema de gerenciamento de contas, bancos e usuários com transações internas e persistência de dados.
 
 ### Entre em Contato
 Adoraria conversar sobre oportunidades de colaboração, ideias de projetos ou qualquer outro assunto que queira discutir! Me mande uma mensagem no email acima ou me encontre em uma das minhas redes sociais:
 
 - LinkedIn: [Meu Perfil](https://www.linkedin.com/in/pablo-vasques-2004p/)
-- GitHub: @Darkyelino
+- GitHub: **[@Darkyelino](https://github.com/Darkyelino)**
 
 <!---
 Darkyelino/Darkyelino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
