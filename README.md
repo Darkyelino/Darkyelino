@@ -1,6 +1,6 @@
 # Biografia:
 - 👋 Olá, eu sou o **@Darkyelino**!
-- 🎓 ***Entusiasta de Sistemas de Informação:*** Sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
+- 🎓 ***Aluno de Sistemas de Informação:*** Sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
 - 💻 ***Atualmente estudando:*** Java, Python, MySQL, HTML, CSS e JavaScript.
 - 💼 ***Colaborando em projetos:*** Estou à procura de oportunidades para contribuir com projetos open source e colaborar com outros desenvolvedores.
 - 📨 ***Como me encontrar:*** abel.vasques2004@gmail.com
