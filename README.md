@@ -3,7 +3,7 @@
 - 🎓 ***Entusiasta de Sistemas de Informação:*** Sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
 - 💻 ***Atualmente estudando:*** Java, Python, MySQL, HTML, CSS e JavaScript.
 - 💼 ***Colaborando em projetos:*** Estou à procura de oportunidades para contribuir com projetos open source e colaborar com outros desenvolvedores.
-- 📨 ***Como me encontrar:*** pablo_caua2011@hotmail.com
+- 📨 ***Como me encontrar:*** abel.vasques2004@gmail.com
 - 😄 ***Pronomes:*** Ele/Dele
 - 🎶 ***Fato curioso:*** Além de programar, também faço música e crio artes em pixel art!
 
