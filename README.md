@@ -46,7 +46,7 @@
 
 | Projeto | Descrição |
 |--------|-----------|
-| [`Sistema Bancário com Tkinter`](https://github.com/Darkyelino/Sistema-de-Gerenciamento-de-Bancos-em-Tkinter/tree/main) | Gerenciador de bancos usando Python para fins acadêmicos da faculdade de SI |
+| [`Sistema Bancário com Tkinter`](https://github.com/Darkyelino/Sistema-de-Gerenciamento-de-Bancos-em-Tkinter/tree/main) | Gerenciador de bancos usando Tkinter para fins acadêmicos da faculdade de SI |
 | [`Beecrowd`](https://github.com/Darkyelino/Beecrowd) | Soluções de problemas da plataforma Beecrowd para faculdade de SI |
 
 ---
