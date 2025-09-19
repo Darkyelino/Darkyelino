@@ -10,7 +10,7 @@
 
 - 👨‍🎓 **Graduando em Sistemas de Informação - UFAC**
 - 🔍 Desenvolvedor  Web Full-Stack
-- 💼 Em busca de **vagas de estágio ou desenvolvedor júnior**
+- 💼 Estagiário no Parque Zoobotânico da UFAC como **desenvolvedor pleno full-stack**
 
 ---
 
